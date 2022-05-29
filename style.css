@@ -1,0 +1,40 @@
+html,
+body, h3, h4 {
+  font-size:50px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #9EADC8;
+  font-family: "Sofia", sans-serif;
+  margin-bottom: 20px;
+}
+
+button{
+  text-align: center;
+  background-color: #9EADC8;
+  font-family: "Sofia", sans-serif;
+  font-size: 50px;
+}
+
+.click-cookie {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background: transparent;
+  border: #9EADC8;
+}
+
+.blue {
+  color: pink;
+}
+
+h1{
+  font-size:40px;
+  color: #4372d0;
+}
+
+.bread {
+  background: transparent;
+  border: #9EADC8; 
+}
